@@ -9,4 +9,8 @@
 
 ### My Third Header
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 ###### My Sixth Header
